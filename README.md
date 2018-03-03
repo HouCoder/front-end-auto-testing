@@ -4,7 +4,7 @@ Auto testing with WebdriverIO
 
 ## Requirements
 
-1. macOS(I didn’t test this repo on Windows, but WebdriverIO and Selenium works fine on Windows).
+1. macOS(I didn’t test this repo on Windows, but WebdriverIO and Selenium worked fine on Windows).
 1. Chrome and [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) is installed.
 1. NodeJS version >= 6.
 

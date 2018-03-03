@@ -16,7 +16,8 @@
   "scripts": {
     "http": "http-server ./ -p 8099",
     "test:local": "wdio tests/configs/base.js",
-    "test:ci": "export HEADLESS=true && wdio tests/configs/base.js"
+    "test:ci": "export HEADLESS=true && wdio tests/configs/base.js",
+    "selenium": "selenium-standalone start"
   },
   "repository": {
     "type": "git",

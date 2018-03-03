@@ -19,11 +19,17 @@ Create a HTTP server: `$ npm run http`.
 
 ### Local test(Chrome)
 
-1. `$ npm run test:local`.
+`$ npm run test:local`.
 
 ### Headless test(Chrome)
 
-1. `$ npm run test:ci`.
+`$ npm run test:ci`.
+
+If you wanted to run tests in Travis CI, please read this doc for more info: https://docs.travis-ci.com/user/chrome , it also supports Firefox https://docs.travis-ci.com/user/firefox .
+
+### Cloud test(BrowserStack)
+
+Please read the official doc provided by BrowserStack https://www.browserstack.com/automate/webdriverio .
 
 ## Troubleshooting
 

@@ -1,6 +1,8 @@
 # front-end-auto-testing
 
-Auto testing with WebdriverIO
+Auto testing with WebdriverIO(v4)
+
+<img src="./images/screenshot.png" alt="screenshot" width="400px">
 
 ## Requirements
 
@@ -13,7 +15,7 @@ Auto testing with WebdriverIO
 1. `$ npm install`.
 1. Install drivers: `$ ./node_modules/.bin/selenium-standalone install`.
 
-## Start tests
+## Start testing
 
 Create a HTTP server: `$ npm run http`.
 

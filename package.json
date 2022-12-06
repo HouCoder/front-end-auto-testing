@@ -6,7 +6,7 @@
   "devDependencies": {
     "chai": "^4.1.2",
     "chrome-location": "^1.2.1",
-    "http-server": "^0.11.1",
+    "http-server": "^0.11.2",
     "selenium-standalone": "^6.12.0",
     "wdio-mocha-framework": "^0.6.4",
     "wdio-selenium-standalone-service": "0.0.11",
